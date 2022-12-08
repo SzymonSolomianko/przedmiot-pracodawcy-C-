@@ -1,11 +1,10 @@
-﻿// 1
-Console.WriteLine("PI = {0:#.####}", Math.PI);
+﻿// zad1
+//Console.WriteLine("PI = {0:#.####}", Math.PI);
 
-// 2
+// zad2
 //Console.WriteLine(Math.Sqrt(Math.PI));
 
-// 3
-
+// zad3
 //using System;
 //class Circle
 //{
@@ -17,4 +16,9 @@ Console.WriteLine("PI = {0:#.####}", Math.PI);
 //        Console.WriteLine("Objetosc: " + Area);
 //        Console.ReadKey();
 //    }
-//}
+//
+//zad pitagoras
+
+//class Pitagoras
+Console.Write("Podaj liczbę a:");
+double a =  Convert.ToDouble(Console.ReadLine());
